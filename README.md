@@ -4,6 +4,7 @@ Introductory Spanish Learning Game
 ## Table of Contents
 * [General Info](#general-Info)
 * [Features](#features)
+* [Preview](#preview)
 
 ## General Info
 * Based on activities from Introductory Spanish I/II, this project tests one's Spanish abilities.
@@ -15,3 +16,6 @@ Introductory Spanish Learning Game
 - [x] __Time Test__: Tell time
 - [x] __Number Test__: Translate numbers up to 1 million
 - [x] __Verb Test__: Conjugate regular and irregular verbs
+
+## Preview
+![alt text](https://raw.githubusercontent.com/cam1529/islg/main/preview.png)
