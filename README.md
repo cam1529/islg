@@ -1,4 +1,4 @@
-# learnsp
+# ISLG
 Introductory Spanish Learning Game
 
 ## Table of contents
