@@ -13,5 +13,5 @@ Introductory Spanish Learning Game
 ## Features
 - [x] __Flash Cards__: Translate nouns, verbs and expressions
 - [x] __Time Test__: Tell time
-- [x] __Number Test__: Translate numbers
+- [x] __Number Test__: Translate numbers up to 1 million
 - [x] __Verb Test__: Conjugate regular and irregular verbs
