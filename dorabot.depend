@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1596600184 source:d:\edubackup\projects\dorabot\main.cpp
+	<iostream>
+	<string>
+	<graphics.h>
+	<conio.h>
+	<cstdlib>
+	<bits/stdc++.h>
+	<windows.h>
+	<map>
+	"structures.h"
+	"preferences.h"
+	"tools.h"
+	"game.h"
+	"graphics_tools.h"
+	"screens.h"
+
+1596586558 d:\edubackup\projects\dorabot\structures.h
+	<string>
+	<vector>
+	<math.h>
+
+1596598512 d:\edubackup\projects\dorabot\preferences.h
+	<string>
+	<vector>
+	<map>
+
+1596600894 d:\edubackup\projects\dorabot\tools.h
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<bits/stdc++.h>
+
+1596601630 d:\edubackup\projects\dorabot\game.h
+	<string>
+	<vector>
+
+1596600894 d:\edubackup\projects\dorabot\graphics_tools.h
+	<string>
+	<vector>
+	<windows.h>
+	<winuser.h>
+
+1596601648 d:\edubackup\projects\dorabot\screens.h
+	<string>
+	<vector>
+
+1596601844 source:c:\users\cooki\documents\mceducation\projects\dorabot spanish helper\dorabot\main.cpp
+	<iostream>
+	<string>
+	<graphics.h>
+	<conio.h>
+	<cstdlib>
+	<bits/stdc++.h>
+	<windows.h>
+	<map>
+	"structures.h"
+	"preferences.h"
+	"tools.h"
+	"game.h"
+	"graphics_tools.h"
+	"screens.h"
+
+1620143734 c:\users\cooki\documents\mceducation\projects\dorabot spanish helper\dorabot\structures.h
+	<string>
+	<vector>
+	<math.h>
+
+1620144136 c:\users\cooki\documents\mceducation\projects\dorabot spanish helper\dorabot\preferences.h
+	<string>
+	<vector>
+	<map>
+
+1620143822 c:\users\cooki\documents\mceducation\projects\dorabot spanish helper\dorabot\tools.h
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<bits/stdc++.h>
+
+1620143820 c:\users\cooki\documents\mceducation\projects\dorabot spanish helper\dorabot\game.h
+	<string>
+	<vector>
+
+1620143866 c:\users\cooki\documents\mceducation\projects\dorabot spanish helper\dorabot\graphics_tools.h
+	<string>
+	<vector>
+	<windows.h>
+	<winuser.h>
+
+1620145563 c:\users\cooki\documents\mceducation\projects\dorabot spanish helper\dorabot\screens.h
+	<string>
+	<vector>
+
