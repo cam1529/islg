@@ -1,11 +1,11 @@
 # ISLG
 Introductory Spanish Learning Game
 
-## Table of contents
-* [General info](#general-info)
+## Table of Contents
+* [General Info](#general-Info)
 * [Features](#features)
 
-## General info
+## General Info
 * Based on activities from Introductory Spanish I/II, this project tests one's Spanish abilities.
 * Project was created in Code::Blocks 16.01.
 * To __run this project__, compile the files in C::B then run the resulting .exe file in the bin/debug folder.
